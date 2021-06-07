@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+header h1{
+    color: whitesmoke;
+    background-color: dodgerblue;
+    padding: 0.5em;
+}
+
+main div{
+    padding: 2em 0.5em 0.5em ;
+}
+
+.button{
+    margin-top: 0.5em;
+}
